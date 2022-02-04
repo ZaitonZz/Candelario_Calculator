@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Candelario_Calculator</string>
+    <string name="btnMulTxt">x</string>
+    <string name="btnSubTxt">-</string>
+    <string name="btnModTxt">%</string>
+    <string name="btnAddTxt">+</string>
+    <string name="btnDivTxt">/</string>
+    <string name="placeholder">0.0</string>
+    <string name="txt1">First Variable</string>
+    <string name="txt2">Second Variable</string>
+    <string name="txt3">The result is\t</string>
+    <string name="answer">Answer</string>
 </resources>
